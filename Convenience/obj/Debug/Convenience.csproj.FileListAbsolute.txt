@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Convenience\Convenience\obj\Debug\Convenience.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Convenience\Convenience\obj\Debug\Convenience.Form1.resources
+C:\Users\user\source\repos\Convenience\Convenience\obj\Debug\Convenience.Properties.Resources.resources
+C:\Users\user\source\repos\Convenience\Convenience\obj\Debug\Convenience.SecondPage.resources
+C:\Users\user\source\repos\Convenience\Convenience\obj\Debug\Convenience.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Convenience\Convenience\obj\Debug\Convenience.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Convenience\Convenience\bin\Debug\Convenience.exe.config
+C:\Users\user\source\repos\Convenience\Convenience\bin\Debug\Convenience.exe
+C:\Users\user\source\repos\Convenience\Convenience\bin\Debug\Convenience.pdb
+C:\Users\user\source\repos\Convenience\Convenience\obj\Debug\Convenience.exe
+C:\Users\user\source\repos\Convenience\Convenience\obj\Debug\Convenience.pdb
